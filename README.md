@@ -6,3 +6,5 @@ Java_learning
 selectSort
 bubbleSort
 binarySearch
+trans
+进制转换（利用查表法）
