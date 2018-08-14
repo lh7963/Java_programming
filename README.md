@@ -7,8 +7,11 @@ selectSort
 bubbleSort
 binarySearch
 trans
-进制转换（利用查表法）
+base-number transformation（look-up table）
 
 ---2018/08/01---
-二维数组的定义
-遍历二维数组
+the difinition of two-dimensional array
+traversal array
+
+---2018/08/14
+the use of “javadoc”——how to produce the document
