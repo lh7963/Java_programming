@@ -1,0 +1,3 @@
+javac -d doc -encoding GBK -charset GBK ArrayTool.java
+javac -d doc -encoding GBK -charset GBK *.java
+will creat a file named "doc" in current directory，including the document of your src file
