@@ -17,4 +17,7 @@ traversal array
 the use of “javadoc”——how to produce the document
 
 ---2018/08/30
-Singleton_Pattern
+Singleton_Pattern 
+the feature in inritation: 1.member variables
+                           2.member methods
+                           3.constructor
