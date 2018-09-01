@@ -15,3 +15,6 @@ traversal array
 
 ---2018/08/14
 the use of “javadoc”——how to produce the document
+
+---2018/08/30
+Singleton_Pattern
